@@ -6,7 +6,7 @@ Send out a request for a Keybase account:
 
 > Dear XYTZ, you have recently requested data from UMCCR. The (presigned) URLs we will share with you are ideally only known to you and therefore we will generate them encrypted since anyone with those URLs can download the soon-to-be-shared files. For that we are using KeyBase in our infrastructure setup. Please create an account at https://keybase.io/ and share your user name with me.
 
-> We will send you a file with a list of URLs which you can use to download the data you have requested. Please keep in mind that those URLs will expire in less than 7 days after they have been generated, so please, download the data as soon as you receive that list.
+> We will send you an encrypted file with a list of URLs which you can use to download the data you have requested. You can decrypt this file using keybase with one of the methods outlined here: https://keybase.io/decrypt. Please keep in mind that those URLs will expire in less than 7 days after they have been generated, so please, download the data as soon as you receive that list.
 
 > We ask you to have this prepared in advance to avoid unnecessary delays with this data sharing transaction.
 
